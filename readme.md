@@ -26,5 +26,5 @@ Time spent: 2
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/theonekaran/tumblr/blob/master/tumblr_walkthrough_prep.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.giphy.com/xT8qBgOOyhkw3ej5kI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
